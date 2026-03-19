@@ -17,7 +17,7 @@
 **目标**：mAP ≥ 0.80，假阳性 < 5%，RPi实时FPS ≥ 8  
 **意义**：厨房火灾占住宅火灾50%以上，本系统比传统烟感更早预警  
 **学习收获**：目标检测、多模态LLM、prompt工程、边缘部署  
-详情见：[PROJECT_PROPOSAL.md](./Project proposal.md)
+详情见：[PROJECT_PROPOSAL.md](./Project_proposal.md)
 
 ## 进度路线（14周计划）
 - Week 1–2：规划、调研、环境  
