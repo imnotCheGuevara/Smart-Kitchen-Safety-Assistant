@@ -1,0 +1,8 @@
+path: C:/Users/杨4/Desktop/Smart Kitchen Safety Assistant/fire_detection
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 3
+names: ['fire', 'non_fire', 'smoke']
